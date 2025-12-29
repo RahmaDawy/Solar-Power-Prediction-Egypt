@@ -91,29 +91,30 @@ The project generates high-fidelity visualizations for result interpretation:
 
 ## 📖 References
 
-[1] Allam, G. H., Elnaghi, B. E., Abdelwahab, M. N., & Mohammed, R. H. (2021). Using Machine Learning to forecast Solar Power in Ismailia. *International Journal of Scientific and Research Publications (IJSRP)*, 11(12), 238-244.
+[1] G. H. Allam, B. E. Elnaghi, M. N. Abdelwahab, and R. H. Mohammed, “Using machine learning to forecast solar power in Ismailia,” *International Journal of Scientific and Research Publications (IJSRP)*, vol. 11, no. 12, pp. 238–244, 2021.
 
-[2] Hassan, A. A., Atia, D. M., & El-Madany, H. T. (2024). Machine Learning-Based Medium-Term Power Forecasting of a Grid-Tied Photovoltaic Plant. *Smart Grid and Renewable Energy*, 15(12), 289-306.
+[2] A. A. Hassan, D. M. Atia, and H. T. El-Madany, “Machine learning-based medium-term power forecasting of a grid-tied photovoltaic plant,” *Smart Grid and Renewable Energy*, vol. 15, no. 12, pp. 289–306, 2024.
 
-[3] Ibrahim, H. M. (2020). Estimation of global solar radiation on horizontal surfaces over Egypt: A review. *Energy Reports*, 6, 234-241.
+[3] H. M. Ibrahim, “Estimation of global solar radiation on horizontal surfaces over Egypt: A review,” *Energy Reports*, vol. 6, pp. 234–241, 2020.
 
-[4] Louzazni, M., Khouya, A., & Mosalam, H. (2020). Comparison of power production for different photovoltaic technologies in Nile Delta, Egypt. *Procedia Manufacturing*, 46, 724-729.
+[4] M. Louzazni, A. Khouya, and H. Mosalam, “Comparison of power production for different photovoltaic technologies in Nile Delta, Egypt,” *Procedia Manufacturing*, vol. 46, pp. 724–729, 2020.
 
-[5] Abdelsattar, M., AbdelMoety, A., & Emad-Eldeen, A. (2025). Comparative analysis of machine learning techniques for temperature and humidity prediction in photovoltaic environments. *Scientific Reports*, 15(1), 15650.
+[5] M. Abdelsattar, A. AbdelMoety, and A. Emad-Eldeen, “Comparative analysis of machine learning techniques for temperature and humidity prediction in photovoltaic environments,” *Scientific Reports*, vol. 15, no. 1, p. 15650, 2025.
 
-[6] Iyengar, S., Sharma, N., Irwin, D., Shenoy, P., & Ramamritham, K. (2014, November). SolarCast: a cloud-based black box solar predictor for smart homes. In *Proceedings of the 1st ACM Conference on Embedded Systems for Energy-Efficient Buildings* (pp. 40-49).
+[6] S. Iyengar, N. Sharma, D. Irwin, P. Shenoy, and K. Ramamritham, “SolarCast: A cloud-based black box solar predictor for smart homes,” in *Proc. 1st ACM Conf. Embedded Systems for Energy-Efficient Buildings*, Nov. 2014, pp. 40–49.
 
-[7] Abdellatif, S. O., et al. (2022). Assessment of different machine learning algorithms for short-term solar power forecasting in Egypt. *International Journal of Renewable Energy Research (IJRER)*, 12(1), 125-135.
+[7] Taha, A., Makeen, P., & Nazih, N. (2025). Short-term and long-term solar irradiance forecasting with advanced machine learning techniques in Zafarana, Egypt. Scientific Reports, 15(1), 39553.
 
-[8] Sharabati, A. M. (2025). *A Comparative Machine Learning Approach to Forecasting Solar Power Across Diverse Climate Conditions* [Master’s dissertation, Arab American University].
+[8] A. M. Sharabati, “A comparative machine learning approach to forecasting solar power across diverse climate conditions,” Master’s thesis, Arab American University, 2025.
 
-[9] Chaaban, K., & Alfadl, N. (2024). A Comparative Study of Machine Learning Approaches for Accurate Solar Energy Predictive Modeling. *International Journal of Power Electronics and Drive Systems (IJPEDS)*, 15(3), 1542-1551.
+[9] Chaaban, A. K., & Alfadl, N. (2024). A comparative study of machine learning approaches for an accurate predictive modeling of solar energy generation. Energy Reports, 12, 1293-1302.
 
-[10] Liceaga-Ortiz-De-La-Peña, J. M., et al. (2025). Advancing Smart Energy: A Review for Algorithms Enhancing Power Grid Reliability and Efficiency. *Energies*, 18(12), 3094.
+[10] J. M. Liceaga-Ortiz-De-La-Peña *et al*., “Advancing smart energy: A review for algorithms enhancing power grid reliability and efficiency,” *Energies*, vol. 18, no. 12, p. 3094, 2025.
 
-[11] Willmott, C. J. (1981). On the validation of models. *Physical Geography*, 2(2), 184-194.
+[11] C. J. Willmott, “On the validation of models,” *Physical Geography*, vol. 2, no. 2, pp. 184–194, 1981.
 
-[12] Nash, J. E., & Sutcliffe, J. V. (1970). River flow forecasting through conceptual models part I—A discussion of principles. *Journal of Hydrology*, 10(3), 282-290.
+[12] J. E. Nash and J. V. Sutcliffe, “River flow forecasting through conceptual models part I—A discussion of principles,” *Journal of Hydrology*, vol. 10, no. 3, pp. 282–290, 1970.
 
-[13] Legates, D. R., & McCabe Jr, G. J. (1999). Evaluating the use of “goodness-of-fit” measures in hydrologic and hydroclimatic model validation. *Water Resources Research*, 35(1), 233-241.
+[13] D. R. Legates and G. J. McCabe Jr., “Evaluating the use of goodness-of-fit measures in hydrologic and hydroclimatic model validation,” *Water Resources Research*, vol. 35, no. 1, pp. 233–241, 1999.
+
 
